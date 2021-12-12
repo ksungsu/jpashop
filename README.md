@@ -16,6 +16,11 @@
   * ER 모델
   * 관계테이블, 매핑 테이블
 
+## TIL 51th day
+* JPA를 이용한 엔티티 클래스 개발
+* 다대다, 다대일 등의 어노테이션 설정 방법
+* SingleTable, Discriminator
+
 ### My Blog😊
 
 https://hardkeepgoing.tistory.com/
